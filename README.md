@@ -41,9 +41,9 @@
 
 ```bash
 # клонируем репозиторий
-git clone https://github.com/lubowsky/<repo-name>.git
+git clone https://github.com/lubowsky/chip-list-test.git
 
-cd <repo-name>
+cd chip-list-test
 
 # устанавливаем зависимости
 npm install
