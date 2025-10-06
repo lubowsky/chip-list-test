@@ -1,0 +1,17 @@
+.overflow-btn {
+  border: none;
+  background: #eee;
+  border-radius: 16px;
+  padding: 4px 10px;
+  cursor: pointer;
+  outline: none !important;
+}
+
+.overflow-content {
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin-top: 4px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
